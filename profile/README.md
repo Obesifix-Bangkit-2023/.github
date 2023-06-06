@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Obesifix-Bangkit-2023">
-    <img src="https://www.linkpicture.com/q/obesifix-low-resolution-color-logo-2_1.png" width='250dp' alt="Logo" >
+    <img src="https://www.linkpicture.com/q/obesifix-low-resolution-color-logo-2_1.png" width='350dp' alt="Logo" >
   </a>
 
   <h1 align="center">Obesifix</h1>
